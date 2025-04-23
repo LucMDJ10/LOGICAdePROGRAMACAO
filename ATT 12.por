@@ -12,10 +12,10 @@ programa {
     escreva("Seu triangulo é um equilátero")}
 
     senao se((a!=b) e (b!=c) e (a!=c)){
-      escreva("Seu triangulo é um isoceles ")}
+      escreva("Seu triangulo é um escaleno ")}
 
     senao{
-      escreva("Seu triangulo é um escaleno ")}
+      escreva("Seu triangulo é um isoceles ")}
   
     
   }
